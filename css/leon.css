@@ -802,6 +802,10 @@ i {
     font-size: 19px;
   }
 
+   .contact .container .contact-content .find ul li  {
+     padding : 10px ;
+   }
+
   .contact .container .contact-content .find span {
     font-size: 11px;
   }
